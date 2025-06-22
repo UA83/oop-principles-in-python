@@ -63,6 +63,3 @@ try:
 
 except ValueError as e:
     print("Validation error:", e)
-
-
-
