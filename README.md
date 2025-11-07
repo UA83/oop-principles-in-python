@@ -1,4 +1,4 @@
-iiiiiiiiiiiiiiiiiiiiii# oop-principles-in-python
+# oop-principles-in-python
 
 # 🐍 Python OOP Concepts
 
