@@ -1,5 +1,5 @@
 # oop-principles-in-python
-# Lineww
+# Line
 OOP PRinciples refresh / practice
 asas
 asas
