@@ -1,10 +1,5 @@
 # oop-principles-in-python
-# Line
-#
-OOP PRinciples refresh / practice
-asas
-fffff
-asas
+
 # 🐍 Python OOP Concepts
 
 ## ✅ Basics
