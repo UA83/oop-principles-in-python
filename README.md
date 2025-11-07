@@ -1,5 +1,4 @@
 # oop-principles-in-python
-
 # 🐍 Python OOP Concepts
 
 ## ✅ Basics
